@@ -2,7 +2,7 @@
 This Repository is created to track my React journey
 
 What I need to study?
--Javascript
+- Javascript
    * Basic funtions
    * OOPS
    * JSON Format
