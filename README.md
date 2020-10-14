@@ -1,7 +1,7 @@
 # LearnReact
 This Repository is created to track my React journey
 
-What I need to study?
+**What I need to study?**
 - Javascript
    * Basic funtions
    * OOPS
